@@ -1,0 +1,12 @@
+tRCD = 13.5
+tRP = 13.5
+tRC = 49.5
+tRAS = 36
+tRTP = 7.5
+tWR = 15
+tWTR = 7.5
+tRRD1 = 6
+tRRD2 = 7.5
+tFAW1 = 30
+tFAW2 = 45
+tCK = 1.5
